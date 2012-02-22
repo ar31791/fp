@@ -22,6 +22,18 @@
 #include <stdio.h>
 
 int main() {
+  printf("Welcum!\n");
+  
+  printf("     ___\n");
+  printf("   //  7\n");
+  printf("  (_,_/\\\n");
+  printf("   \\    \\\n");
+  printf("    \\    \\\n");
+  printf("    _\\    \\__\n");
+  printf("   (   \\     )\n");
+  printf("    \\___\\___/\n");
+  
+  
   fp_t a, b, c;
   char tmp[200];
   
